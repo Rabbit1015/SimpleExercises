@@ -1,0 +1,17 @@
+[
+    {
+        "title" : "marching in place",
+        "category": "cardio",
+        "isFaved": false
+    },
+    {
+        "title" : "bicep curl",
+        "category": "strength",
+        "isFaved": false
+    },
+    {
+        "title" : "quad stretch",
+        "category": "flexibility",
+        "isFaved": false
+    }
+]
